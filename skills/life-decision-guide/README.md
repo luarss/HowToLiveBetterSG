@@ -42,7 +42,7 @@ mkdir -p ~/.codex/prompts && curl -fsSL -o ~/.codex/prompts/life-decision-guide.
 git clone --depth 1 https://github.com/eternity4719/HowToLiveBetter.git "${TMPDIR:-/tmp}/hltb"
 ```
 
-整本 1.3 MB，浅克隆一次几秒。取不到网络就如实说取不到，不替代正文。
+整本 0.8 MB，浅克隆一次几秒。取不到网络就如实说取不到，不替代正文。
 
 ## 改动须知
 
