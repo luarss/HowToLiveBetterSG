@@ -17,7 +17,7 @@
 [![原始文献](https://img.shields.io/badge/%E5%8E%9F%E5%A7%8B%E6%96%87%E7%8C%AE-1164%20%E6%9D%A1%E9%93%BE%E6%8E%A5-565a5f?style=flat-square)](docs/核实记录/)
 [![许可](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF-Unlicense-565a5f?style=flat-square)](LICENSE)
 
-**[打开在线检索页](https://eternity4719.github.io/HowToLiveBetter/)** · [下载 PDF](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.pdf) · [下载 EPUB](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.epub) · [下载离线单文件（HTML）](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.html) · [目录](#目录) · [术语表](#读懂数字术语表) · [核实记录](docs/核实记录/) · [结婚划不划算（长文）](docs/结婚划不划算.md) · [家庭应急装备清单（长文）](docs/家庭应急装备清单.md) · [遇到陌生人出事该不该停（长文）](docs/遇到陌生人出事该不该停.md) · [生物钟和夜班（长文）](docs/生物钟和夜班.md)
+**[打开在线检索页](https://eternity4719.github.io/HowToLiveBetter/)** · [下载 PDF](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.pdf) · [下载 EPUB](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.epub) · [下载离线单文件（HTML）](https://github.com/eternity4719/HowToLiveBetter/releases/download/epub-latest/HowToLiveBetter.html) · [目录](#目录) · [术语表](#读懂数字术语表) · [核实记录](docs/核实记录/) · [结婚划不划算（长文）](docs/结婚划不划算.md) · [家庭应急装备清单（长文）](docs/家庭应急装备清单.md) · [遇到陌生人出事该不该停（长文）](docs/遇到陌生人出事该不该停.md) · [生物钟和夜班（长文）](docs/生物钟和夜班.md) · [孩子出生前后要办的事（长文）](docs/孩子出生前后要办的事.md) · [刚确诊慢性病之后（长文）](docs/刚确诊慢性病之后.md)
 
 本书是 [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)《高性价比人生指南》的改编版（新加坡版），沿用原书的体例与证据分级，按新加坡的情况改写。与原项目及其作者没有隶属关系，也未获其背书。原书正文是中文。原作按 [Unlicense](LICENSE) 释出，本版沿用。<br>
 This is an adapted Singapore edition of [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) (《高性价比人生指南》), a Chinese-language evidence-graded life guide. It is not affiliated with or endorsed by the original project or its author. The source text is in Chinese.
@@ -201,19 +201,19 @@ node tools/pdf/build.mjs                   # PDF，另需 pandoc ≥ 3.1 和 typ
 10. [恋爱和结婚划不划算](book/10-恋爱和结婚划不划算.md)：择偶策略、纠缠（「跟踪」罪）的红线、兴趣信号、关系质量、异地恋、登记数据口径、登记流程（提前 21 天网上申请）、婚检与婚姻撤销、健康账、时间账、钱账与《妇女宪章》、父母出资买房与配偶借钱的担保、退出成本（结婚满 3 年才能申请离婚）。长文见 [docs/结婚划不划算.md](docs/结婚划不划算.md)。
 13. [紧急情况：先做什么](book/13-紧急情况.md)：什么时候打 995：心脏骤停、卒中与后循环卒中、眼中风、青光眼急性发作、心梗、主动脉夹层、霹雳样头痛、慢性硬膜下血肿、深静脉血栓与肺栓塞；大出血、咬伤、烧烫伤、过敏性休克、癫痫、低血糖、触电、一氧化碳、误服与化学品灼伤、中暑、火灾、溺水、气道异物、失温、蛇咬、地震、猴子与野猪、雷击、高原病、蜱虫、野外饮水、骨折固定、扎进身体的异物；被索财与撞见斗殴时打 999；艾滋病暴露后 72 小时阻断药；还有救不救得起：老人摔倒怎么扶、做心肺复苏后惹上法律问题找谁。口径：存活率与金钱，末几条兼及人身自由。
 14. [账号与信息安全](book/14-账号与信息安全.md)：二次验证、密码、SIM 卡 PIN、手机丢失、银行卡盗刷与银行的共担责任框架、登录设备、App 权限、查阅更正个人数据与撤回同意、NRIC 号码能不能给。口径：金钱/个人信息。
-16. [得了慢性病之后怎么活](book/16-得了慢性病之后怎么活.md)：服药依从、MediSave 付门诊慢性病费用、复查记录、别停药试偏方、CHAS 与 Healthier SG 家庭医生、糖尿病的眼底与足部检查、肾结石复发预防、痛风的达标治疗。口径：总死亡率/金钱。
+16. [得了慢性病之后怎么活](book/16-得了慢性病之后怎么活.md)：服药依从、MediSave 付门诊慢性病费用、复查记录、别停药试偏方、CHAS 与 Healthier SG 家庭医生、糖尿病的眼底与足部检查、肾结石复发预防、痛风的达标治疗。口径：总死亡率/金钱。长文见 [docs/刚确诊慢性病之后.md](docs/刚确诊慢性病之后.md)。
 20. [刚出生的孩子怎么带](book/20-刚出生的孩子怎么带.md)：安全睡眠、乙肝首针、国家儿童免疫程序、母乳与辅食、冲奶水温、蜂蜜、维生素 K、发热就医红线、不摇晃、大件采购、高危孩子早引入花生防过敏。口径：婴儿死亡率/金钱。
 21. [出国、旅行与境外安全](book/21-出国旅行与境外安全.md)：外交部（MFA）的目的地提醒、24 小时值班电话、领事协助的边界、境外医疗与转运保险、境外高薪招聘骗局、证件丢失、境外驾照与 IDP、中介牌照怎么查、在国外碰毒品也犯法、出境前登记行程。口径：金钱/人身自由。
 22. [怎么放松：娱乐场所和减压](book/22-怎么放松.md)：安全出口、点单先问价、涉毒红线、别人递的东西与电子烟；运动、正念、呼吸、社交、绿地。口径：金钱/人身自由，以及精力/总死亡率。
 23. [学什么技能划算](book/23-学什么技能划算.md)：读书还是打工（不满 16 岁的打工限制、教育与死亡率、居民学历结构、MOE 助学金、N(A) 学生的 DPP、PFP 与 ITE 路径、怎么自己算这笔账）、教育回报率、课程和学校怎么验（MySkillsFuture、SWDA 注册）、SkillsFuture 补贴、哪些本事不容易被机器取代、渐进式工资模式、紧缺职业怎么查、SCTP 短周期项目，以及定下来学什么之后怎么学（自测、分散练习、别靠划重点、交错练习、学习风格没有证据）。口径：金钱/时间，其中一条为死亡率。
-27. [怀孕和生产：从发现怀孕到出院办证](book/27-怀孕和生产.md)：叶酸、三病筛查与母婴阻断、孕期烟酒、阿司匹林与妊娠期糖尿病、立刻去医院的信号、破水处置、无痛分娩、剖宫产指征、产假与 MediSave 产科套餐、42 天内用 LifeSG 登记出生、新生儿筛查、MediShield Life 与新生儿补助金、产后复诊。口径：死亡率与金钱。
+27. [怀孕和生产：从发现怀孕到出院办证](book/27-怀孕和生产.md)：叶酸、三病筛查与母婴阻断、孕期烟酒、阿司匹林与妊娠期糖尿病、立刻去医院的信号、破水处置、无痛分娩、剖宫产指征、产假与 MediSave 产科套餐、42 天内用 LifeSG 登记出生、新生儿筛查、MediShield Life 与新生儿补助金、产后复诊。口径：死亡率与金钱。长文见 [docs/孩子出生前后要办的事.md](docs/孩子出生前后要办的事.md)。
 28. [别为了外形把身体搞坏](book/28-别为了外形把身体搞坏.md)：极端节食与进食障碍、医疗服务牌照与 SMC 注册医生、面部填充的失明部位、承诺快速瘦的减肥产品、合成代谢类固醇、减肥药与性激素的处方和复查、体像评估。口径：死亡率（健康终点），医美两条兼及人身自由。
 29. [遭遇重大打击之后](book/29-遭遇重大打击之后.md)：丧亲头几天的心血管窗口、重病诊断的第一周、失业、丧偶后的半年、因自杀丧亲、没有亲人也没有朋友时怎么替代那个人、家长去世的孩子、哀伤卡住了去哪挂号、离婚分居后别断医保、SOS 1767 与 national mindline 1771、别在应激期做不可逆的决定、欠债压得喘不过气先找谁。口径：总死亡率，谈花钱与待遇的几条为金钱。
 30. [上学以后的孩子](book/30-上学以后的孩子.md)：按小时算的急症、别为了考试推迟治疗、被欺凌怎么办、每天户外 2 小时、按年龄管屏幕、近视的并发症、学校健康筛查的转介信、青少年抑郁筛查、治愈近视的产品、睡眠与考试的官方建议、因病长期请假、散瞳验光与复查、窝沟封闭。口径：死亡率与健康终点，另有金钱和时间各一到两条。
 32. [出国留学：身份、打工、保险和文凭认可](book/32-出国留学.md)：文凭回新加坡谁认；美国 F-1「最长四年、读完 30 天内走」的新规被法院暂停，眼下仍是读完为止与 60 天宽限期；美加英澳四国的打工时数上限；全日制在读是身份的根；美国搬家 10 天内报新地址；新加坡男生出国读书要办 Exit Permit；澳大利亚 OSHC 不能断；英国医疗附加费；想回新加坡当医生要查 SMC 认可的海外医学院名单。口径：金钱/人身自由。
 34. [家里的常备药别吃出事](book/34-家里的常备药别吃出事.md)：扑热息痛别叠着吃；孩子发烧不自己给阿司匹林、液体药用配的量具；60 岁以上和胃出过血的人吃布洛芬前先问；2 岁以下感冒不自己买药；孕 20 周后不自己吃布洛芬；感冒不要抗生素；拉肚子先补水、5 岁以下不给止泻药；止痛药吃多了的头痛；剩药怎么清；甲硝唑期间忌酒；抗过敏成分犯困别开车；西柚和降脂降压药。口径：死亡率。
 
-每节内条目按性价比从高到低排列。「不要早死」「不要浪费时间」这类节标题说的是这一节想防住的结果，条目本身要做还是别做，以条目标题为准。长文另见 [docs/家庭应急装备清单.md](docs/家庭应急装备清单.md)、[docs/结婚划不划算.md](docs/结婚划不划算.md) 、[docs/遇到陌生人出事该不该停.md](docs/遇到陌生人出事该不该停.md) 和 [docs/生物钟和夜班.md](docs/生物钟和夜班.md)。每条来源的核实过程记录在 [docs/核实记录](docs/核实记录/)。
+每节内条目按性价比从高到低排列。「不要早死」「不要浪费时间」这类节标题说的是这一节想防住的结果，条目本身要做还是别做，以条目标题为准。长文另见 [docs/家庭应急装备清单.md](docs/家庭应急装备清单.md)、[docs/结婚划不划算.md](docs/结婚划不划算.md) 、[docs/遇到陌生人出事该不该停.md](docs/遇到陌生人出事该不该停.md)、[docs/生物钟和夜班.md](docs/生物钟和夜班.md)、[docs/孩子出生前后要办的事.md](docs/孩子出生前后要办的事.md) 和 [docs/刚确诊慢性病之后.md](docs/刚确诊慢性病之后.md)。每条来源的核实过程记录在 [docs/核实记录](docs/核实记录/)。
 
 仓库根目录的 `index.html` 是在线检索页：按关键词、章节、证据等级和成本维度（花钱、花时间、要毅力）筛选条目，数据直接读本文件。在仓库设置里开启 GitHub Pages（Deploy from a branch，分支 main，目录 /）后即可访问。`tools/epub/` 是电子书生成脚本，`cd tools/epub && npm ci && npm run build` 在本地出一本 EPUB 到 `dist/`；GitHub Actions 在正文改动后自动跑同一个脚本并更新 Release。
 
